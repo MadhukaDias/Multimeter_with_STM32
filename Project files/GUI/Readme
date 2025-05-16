@@ -1,0 +1,3 @@
+We used USB port to transfer data from Microcontroller to PC.
+We set the Baud rate accordingly in both.
+Since the GUI program is automated, we transferred a specific character with reading to identify the unit of the measurement whether it is a voltage or mili ampere current or micro ampere current.
