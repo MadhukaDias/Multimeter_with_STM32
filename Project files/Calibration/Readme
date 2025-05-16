@@ -1,0 +1,2 @@
+Using a multimeter, we calibrated the microcontroller reading according to the multimeter reading.
+Then using a python program (which is in the Codes folder -> "Function Generator.py"), we generated an equation for microcontroller reading and actual reading.
