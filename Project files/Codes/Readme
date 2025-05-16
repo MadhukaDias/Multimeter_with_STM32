@@ -1,0 +1,4 @@
+Function_Generator.py - Used to map the readings of a multimeter and microcontroller
+Voltage_Sensor.c - Separate C code (of STM32) for voltage measuring part
+Current_Sensor.c - Separate C code (of STM32) for current measuring part
+main.c - Combined voltage measuring and current measuring parts together for separate pins of STM32
